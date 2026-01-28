@@ -9,11 +9,11 @@ My research process is built on **multi-threaded data synthesis**. I deconstruct
 - **Phase 3: Stress Testing:** Applying adversarial logic to find "hallucinations" or flaws in the reasoning.
 
 ## 🛠 Projects & Deep Dives
-### [Project Name: e.g., Analyzing Bias in Behavioral Models]
-*   **Objective:** To determine if X theory holds up under Y conditions.
-*   **Tools:** Independent research, [Codecademy](https://www.codecademy.com) (Python for Data Science), and GitHub documentation.
-*   **Outcome:** (Write 1-2 sentences on what you discovered).
+### Quantifying Subjective Giftedness & Diagnostic Bias
+*   **Objective:** Analyzing the correlation between high-range IQ (140–160+) and behavioral misidentification (e.g., ADHD misdiagnosis).
+*   **Method:** Deconstructing developmental milestones to identify non-obvious indicators of giftedness that bypass standard diagnostic filters.
+*   **AI Application:** Experience in identifying how rigid classification systems (like LLM labeling) can fail when encountering high-variance data points.
 
 ## 💻 Technical Growth
-- **Languages:** Python (Foundational via Codecademy)
+- **Languages:** Python (Foundational via Codecademy & [PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer)
 - **Frameworks:** Logic Mapping, Technical Writing, Data Annotation
