@@ -1,4 +1,5 @@
-(WIP)# Independent Research & Adversarial Logic 
+(WORK IN PROGRESS)
+# Independent Research & Adversarial Logic 
 **Focus:** Psychology, Systems Analysis, and Logical Deconstruction
 
 ## 🧠 Methodology: The "Thread-Mining" Process
