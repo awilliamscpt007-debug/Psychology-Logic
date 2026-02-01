@@ -1,4 +1,4 @@
-# Independent Research & Adversarial Logic 
+(WIP)# Independent Research & Adversarial Logic 
 **Focus:** Psychology, Systems Analysis, and Logical Deconstruction
 
 ## 🧠 Methodology: The "Thread-Mining" Process
@@ -17,3 +17,5 @@ My research process is built on **multi-threaded data synthesis**. I deconstruct
 ## 💻 Technical Growth
 - **Languages:** Python (Foundational via Codecademy & [PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer)
 - **Frameworks:** Logic Mapping, Technical Writing, Data Annotation
+
+## Current Focus
