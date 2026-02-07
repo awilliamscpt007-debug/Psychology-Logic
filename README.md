@@ -20,3 +20,4 @@ My research process is built on **multi-threaded data synthesis**. I deconstruct
 - **Frameworks:** Logic Mapping, Technical Writing, Data Annotation
 
 ## Current Focus
+"Researching the Abstract Nature of Latent Giftedness: Analyzing how high-range cognitive abilities can remain 'invisible' to both the individual and observers due to behavioral masking and lack of specific stimulation."
